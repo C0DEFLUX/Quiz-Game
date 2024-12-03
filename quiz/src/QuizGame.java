@@ -28,7 +28,7 @@ public class QuizGame
         scanner.close();
     }
 
-    // Method to add custom questions
+    //Method to add questions
     private static void addCustomQuestions(QuestionService questionService, Scanner scanner)
     {
         while (true)
